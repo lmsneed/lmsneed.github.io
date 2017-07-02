@@ -1,31 +1,31 @@
-<DOCTYPE HTML>
-<HTML>
 
-<head>
-<title>Pen and Pattern</title>
-<link rel="stylesheet" type="text/css" href="css/style.css">
-</head>
+h1 {
+	font-family:sans-serif;
+	font-size:50px;
+	font-weight:thin;
+	letter-spacing: 1px;
+	padding-top: 25px;
+	padding-left: 10px;
+	text-transform:uppercase;
+	line-height: 26.4px;
+	}
 
-<body>
+h2 {
+	font-family: sans-serif;;
+	font-size:20px;
+	font-weight:bold;
+	letter-spacing: 1px;
+	padding-left: 14px;
+	text-transform:uppercase;
+	line-height: 1em;
+	}
 
-<h1> Pen + Pattern</h1>
-<h2> = <br> Design + Function</h2>
-<br>
+body { background-color: lavender;
+}
 
-<p>Creative design tailored for your business. 
-My love for design has brewed within me for many years. Starting from interior design to painting to photography to fashion to graphics to websites. My passion has grown year after year until my mind is overflowing with ideas. 
-<br>
-<br>
-Starting my business is the most challenging and rewarding experience of my life. Pen and Pattern was created to help you introduce your business to the outside world and begin to change your life. 
-<br>
-<br>
-Creating professional high quality designs at affordable prices is what Dumont Design Graphique is about. You work hard on your business, and you can rest assured that I will work as hard day after day to create unique designs that will make your products or services stand out. 
-<br>
-<br>
-A good design isn't only a beautiful one. It also has to be the reflection of who you are and what your business is about. To achieve this ideal combination of aesthetic/efficiency in my designs, not only do I set my standards really high, but I also make communication with my clients an important aspect of every project. 
-<br>
-<br>
-Do not hesitate to contact me if you have any questions, I'm always happy to ear from you.</p>
-		
-</body>
-</HTML>
+p { color: black;
+}
+
+br { line-height: 10.4px;
+	padding-bottom: 20px;
+}
