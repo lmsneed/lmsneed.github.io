@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css?family=Codystar:400');
+
+body
+    {font-family: 'arial', 'san-serif'; 
+    font-size: 2.5em;
+    color: black; 
+    background-color: white;
+    }
+
+p
+    {font-family: 'arial', 'san-serif'; 
+    font-size: .5em;
+    color: black; 
+    background-color: white;
+    }
+
+h1
+    {ffont-family: 'Codystar', cursive;
+    font-size: 3.50em; 
+    display: block; 
+    height: 113px;
+    text-align: center; 
+    color: #46cec7;
+    }
+
+h2
+    {font-family: 'arial';
+    font-size: 1.5em;
+    padding-bottom: 5px;
+    padding-left: 10px; 
+    color: #040506;
+    background-color: white;
+    }
+
+h3
+    {font-family: 'arial';
+    font-size: 1.0em;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    color: #040506;
+    background-color: white;
+    }
+
+h4
+    {font-family: 'arial';
+    font-size: .45em;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    color: #040506;
+    background-color: white;
+    }
+
+footer
+    {font-size: .40em;
+    font-style: italic;
+    clear: both;
+    padding: 0;
+    text-align: center;
+    color: black;
+    background-color: white;
+    }
+
+#nav
+    {font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    }
+
+#nav a:hover
+    {text-decoration: underline;
+    color: #aeaca8;
+    }
+
+nav, footer
+    {clear: both;
+    height: 50px;
+    color: #fff;
+    background-color: #aeaca8;
+    }
+
+ul
+    {overflow: hidden;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    background-color: #aeaca8;
+    }
+
+li
+    {float: left;
+    }
+
+li a
+    {display: block;
+    padding: 12px 13px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    }
+
+nav ul
+    {margin: 0;
+    padding: 5px 0 5px 120px;
+    }
+
+nav li
+    {display: inline; 
+    margin-right: 0;
+    }
+
+nav li a
+    {color: black;
+    }
+
+nav li a.current
+    {color: #aeaca8;
+    }
+
+#wrapper
+    {width: 95%;
+    min-width: 700px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: black; 
+    box-shadow: 0 5px 6px 5px white;
+    }
+
+.floatright
+    {float: right;
+    padding-bottom: 11px;
+    padding-left: 20px;
+    }
+
+.floatleft
+    {float: left;
+    padding-right: 20px;
+    padding-bottom: 11px;
+    }
+
+.boxleft
+    {float: left;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    }
+
+.boxcenter
+    {float: center;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    }
+
+.boxright
+    {float: right;
+    padding-right: 20px;
+    padding-bottom: 5px;
+    }
+
