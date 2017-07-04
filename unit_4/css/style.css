@@ -9,41 +9,38 @@ body
 
 p
     {font-family: 'arial', 'san-serif'; 
-    font-size: .5em;
+    font-size: 20px;
     color: black; 
     background-color: white;
     }
 
 h1
     {font-family: 'Caveat Brush', cursive;
-    font-size: 3.50em; 
-    display: block; 
-    height: 113px;
+    font-size: 150px; 
+    line-height: .5em;
     text-align: center; 
     color: #46cec7;
     }
 
 h2
-    {font-family: 'arial';
-    font-size: 1.5em;
-    padding-bottom: 5px;
-    padding-left: 10px; 
+    {font-family: 'Caveat Brush', cursive;
+    font-size: 75px;
+    text-align: center; 
     color: #040506;
     background-color: white;
     }
 
 h3
     {font-family: 'arial';
-    font-size: 1.0em;
-    padding-bottom: 5px;
-    padding-left: 10px;
+    font-size: 30px;
+    text-align: center; 
     color: #040506;
     background-color: white;
     }
 
 h4
     {font-family: 'arial';
-    font-size: .45em;
+    font-size: 75px;
     padding-bottom: 5px;
     padding-left: 10px;
     color: #040506;
@@ -51,7 +48,7 @@ h4
     }
 
 footer
-    {font-size: .40em;
+    {font-size: 10px
     font-style: italic;
     clear: both;
     padding: 0;
@@ -101,7 +98,7 @@ li a
 
 nav ul
     {margin: 0;
-    padding: 5px 0 5px 120px;
+    padding: 5px 0 5px 50px;
     }
 
 nav li
